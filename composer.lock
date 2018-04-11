@@ -3422,7 +3422,7 @@
     "packages-dev": [
         {
             "name": "symfony/dotenv",
-            "version": "v3.4.6",
+            "version": "v3.4.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/dotenv.git",
